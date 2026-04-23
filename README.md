@@ -7,7 +7,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1>
 
 <br>
 
@@ -28,6 +28,8 @@
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"
   alt="GitHub Streak"/>
+
+<br>
 
 <h1>╭ ₊˚🌏・Hello World!・๑°˳⊹</h1>
 
