@@ -33,8 +33,6 @@
 
 <h1>╭ ₊˚🌏・Hello World!・๑°˳⊹</h1>
 
-<p>🎓 Ciência da Computação UNICAP | 💻 Técnica em Informática SENAC | 🎨 Frontend & UI/UX Design Enthusiast | HTML & CSS </p>
-
 | 2º/8º | 3/3 | ⭐ |
 | :--- | :--- | :--- |
 | **🎓 Ciência da Computação UNICAP** | 💻 Técnica em Informática SENAC  | 🎨 Frontend & UI/UX Design Enthusiast | HTML & CSS |
