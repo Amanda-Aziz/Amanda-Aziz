@@ -1,9 +1,6 @@
 <div align="center">
-  
-### — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-<br>
 
-### -ˋˏ ˖  :star: LANGUAGES AND TOOLS ﹒꒡᥀ 
+### 💻 LANGUAGES AND TOOLS ﹒꒡᥀ 
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
@@ -32,8 +29,8 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"
   alt="GitHub Streak"/>
 
-<h1>Hello World</h1>
-<h3>Estudante de Computação da UNICAP ☀️ Apaixonada por Design e Frontend</h3>
+<h1>╭ ₊˚🌏・Hello World!・๑°˳⊹</h1>
+<h3>Estudante de Computação da UNICAP ⭐ Apaixonada por Design e Frontend</h3>
 
 ### 🤝 Connect with me
 
