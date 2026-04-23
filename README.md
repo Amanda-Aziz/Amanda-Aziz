@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Amanda Aziz</h1>
-<h3>A Computer Science student from PE ☀️ passionate about Design and Frontend</h3>
+<h3>Estudante de Computação da UNICAP ☀️ Apaixonada por Design e Frontend</h3>
 
 ## 🤝 Connect with me
 
