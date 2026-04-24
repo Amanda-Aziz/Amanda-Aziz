@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>💻 LANGUAGES AND TOOLS ﹒꒡᥀ </h1>
+<h1>💻 LANGUAGES AND TOOLS</h1>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
