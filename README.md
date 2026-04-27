@@ -1,22 +1,15 @@
 <div align="center">
-  
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=synthwave" alt="Amanda's GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=synthwave" alt="Top Languages" height="185"/>
+
+<!-- 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9"
-  alt="Amanda's GitHub Stats"
-  height="165"/>
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"
-  alt="Top Languages"
-  height="165"/>
-
-<br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"
-  alt="GitHub Streak"/>
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=synthwave"
+  alt="GitHub Streak" height="185"/>
+-->
 
 <br>
 
