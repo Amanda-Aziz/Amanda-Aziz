@@ -1,9 +1,5 @@
 <div align="center">
   
-<h1>📊 GitHub Stats</h1>
-
-<br>
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9"
   alt="Amanda's GitHub Stats"
