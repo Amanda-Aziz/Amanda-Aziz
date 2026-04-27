@@ -33,10 +33,6 @@
 
 <h1>・₊˚🌏・Hello World! ๑°˳⊹</h1>
 
-| 2º/8º | 3/3 | ⭐ |
-| :--- | :--- | :--- |
-| **🎓 Ciência da Computação UNICAP** | 💻 Técnica em Informática SENAC  | 🎨 Frontend & UI/UX Design Enthusiast | HTML & CSS |
-
 ### 🤝 Connect with me
 <a href="https://linkedin.com/in/amanda-aziz-20b897240" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
