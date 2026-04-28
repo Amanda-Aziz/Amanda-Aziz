@@ -1,9 +1,7 @@
 <div align="center">
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=synthwave" alt="Amanda's GitHub Stats" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=synthwave" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=tokyonight&card_width=450" alt="Amanda's GitHub Stats" style="height: 180px; object-fit: fill"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" style="height: 180px; object-fit: fill"/>
 
 <!-- 
 <img
@@ -20,7 +18,7 @@
 
 <br>
 
-<h1>・₊˚🌏・Hello World! ๑°˳⊹</h1>
+<h1>Hello World!</h1>
 
 ### 🤝 Connect with me
 <a href="https://linkedin.com/in/amanda-aziz-20b897240" target="_blank">
