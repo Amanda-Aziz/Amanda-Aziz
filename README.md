@@ -27,9 +27,15 @@ Sou apaixonada pela intersecção entre **lógica e design**. Com formação té
     TechnoMaker (2024): Desenvolvimento de soluções focadas em pensamento crítico e lógica.
 
 ---
+<br>
+
+<h1> 💻 Tecnologias e Ferramentas | 📊 Git Status </h1>
 
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=tokyonight&card_width=450" alt="Amanda's GitHub Stats" style="height: 195px; width: 600px;; object-fit: fill"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" style="height: 160px; object-fit: fill"/>
@@ -40,12 +46,8 @@ Sou apaixonada pela intersecção entre **lógica e design**. Com formação té
   alt="GitHub Streak" height="185"/>
 -->
 
-<br>
 
-<h1> 💻 Tecnologias e Ferramentas | 📊 Git Status </h1>
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
 
 
 ### 📫 Vamos nos conectar?
