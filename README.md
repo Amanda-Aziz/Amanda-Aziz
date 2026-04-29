@@ -42,7 +42,7 @@ Sou apaixonada pela intersecção entre **lógica e design**. Com formação té
 
 <br>
 
-<h1>💻 LANGUAGES AND TOOLS</h1>
+<h1> 💻 Tecnologias e Ferramentas | 📊 Git Status </h1>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
