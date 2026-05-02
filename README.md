@@ -37,14 +37,17 @@ Sou apaixonada pela intersecção entre **lógica e design**. Com formação té
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=tokyonight&card_width=450" alt="Amanda's GitHub Stats" style="height: 195px; width: 600px;; object-fit: fill"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Aziz&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" style="height: 160px; object-fit: fill"/>
 
-<!-- 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=synthwave"
-  alt="GitHub Streak" height="185"/>
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=Amanda-Aziz&show_icons=true&theme=tokyonight&card_width=450" alt="Amanda's GitHub Stats" style="height: 195px; width: 600px;; object-fit: fill"/>
 -->
+
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Aziz&theme=tokyonight"
+  alt="GitHub Streak" height="185"/>
+
 
 
 <br>
