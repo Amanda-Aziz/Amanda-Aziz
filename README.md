@@ -30,8 +30,10 @@ Sou apaixonada pela intersecção entre **lógica e design**. Com formação té
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Vamos nos conectar?
