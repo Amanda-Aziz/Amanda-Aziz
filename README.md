@@ -8,13 +8,14 @@
 
 <div align="center">
 
-# 💫 ABOUT ME
 ### 👋 Oi, eu sou a Amanda!
 
 ### 💻 Desenvolvedora Front-end em construção | Estudante de Ciência da Computação
 
 Sou estudante de Ciência da Computação na UNICAP, com formação técnica em Tecnologia da Informação e foco em desenvolvimento front-end, UI/UX e prototipagem digital.
 Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis utilizando HTML, CSS e JavaScript, sempre buscando unir lógica, estética e experiência do usuário em soluções funcionais e intuitivas.
+
+</div>
 
 ---
 
@@ -27,8 +28,6 @@ Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis ut
 💡 **Destaques:** Participação em projetos acadêmicos e extensão universitária | Experiência com documentação técnica e organização de requisitos | Vivência em maratonas de inovação e prototipagem criativa
 
 🌱 **No momento:** Aprimorando meus conhecimentos em **JavaScript** e refinando técnicas de **CSS moderno**.
-
-</div>
 
 ---
 <div align="center">
