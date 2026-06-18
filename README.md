@@ -66,11 +66,31 @@ Desenvolvimento de site institucional com foco em acessibilidade, responsividade
     TechnoMaker (2024): Experiência voltada para lógica computacional, pensamento crítico e 
     criação de soluções tecnológicas colaborativas.
 
-<h1>💻 Tech Stack:</h1>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,git,html,python&theme=dark)](https://skillicons.dev)
+# 💻 TECH STACK
 
-<h1>📊 GitHub Stats:</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+</div>
+
+<br>
+
+# 📊GITHUB STATS
 
 ![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 
