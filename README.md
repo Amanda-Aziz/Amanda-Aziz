@@ -4,6 +4,8 @@
 
 ###
 
+</div>
+
 <div align="center">
 
 # 💫 ABOUT ME
@@ -30,7 +32,9 @@ Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis ut
 
 ---
 <div align="center">
+  
 <h1> 🛠️ Projeto em destaque </h1>
+
 </div>
 
 ### 🌐 Lar Bem Elizabeth — Projeto de Extensão Universitária (UNICAP)
