@@ -54,7 +54,7 @@ Desenvolvimento de site institucional com foco em acessibilidade, responsividade
 
 <div align="center">
 
-🏆 Maratona de Inovação & Criatividade
+<h1> 🏆 Maratona de Inovação & Criatividade </h1>
 
     CESAR School (2024): Imersão focada em ideação criativa, prototipagem ágil e desenvolvimento 
     colaborativo de soluções tecnológicas.
