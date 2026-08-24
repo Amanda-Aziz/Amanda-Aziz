@@ -18,7 +18,7 @@ Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis ut
 
 ### 🚀 Sobre mim
 
-🎓 **Formação:** Técnica em TI (Senac) & Graduanda em CC (UNICAP).
+🎓 **Formação:** Técnica em TI (Senac 2022 - 2024) & Graduanda em CC na UNICAP (3º Período).
 
 🎨 **Áreas de Interesse:** Desenvolvimento Front-end | UI/UX Design | Design Responsivo | Acessibilidade | Prototipagem de Interfaces
 
