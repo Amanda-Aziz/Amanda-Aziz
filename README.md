@@ -29,7 +29,7 @@ Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis ut
 ---
 <div align="center">
   
-<h1> 🛠️ Projeto em destaque </h1>
+<h1> 🛠️ Projetos em destaque </h1>
 
 </div>
 
@@ -49,6 +49,32 @@ Desenvolvimento de site institucional com foco em acessibilidade, responsividade
 ⭐ [Repositório](https://github.com/Foco-Dev-Projeto-de-Extensao/repositorio-do-larbem)
 <br>
 ⭐ [site larbem oficial](https://larbem.ong.br/)
+
+---
+
+### 🚀 AZIMARI — Landing Page Institucional
+
+Desenvolvimento da landing page institucional da **AZIMARI**, uma iniciativa voltada à criação de soluções em desenvolvimento de software e tecnologia para saúde.
+
+O projeto tem como objetivo apresentar a identidade da marca, seus serviços e suas áreas de atuação por meio de uma interface moderna, responsiva e alinhada à proposta visual da empresa.
+
+✨ **Principais contribuições:**
+
+- Desenvolvimento da interface da landing page
+- Criação de uma identidade visual tecnológica e moderna
+- Desenvolvimento de layout responsivo
+- Implementação das seções institucionais da plataforma
+- Aplicação de conceitos de UI/UX
+- Organização da estrutura e dos componentes do projeto
+- Participação no planejamento e desenvolvimento da presença digital da AZIMARI
+
+💻 **Tecnologias utilizadas:** HTML5 • CSS3 • JavaScript • Git • GitHub
+
+⭐ **Repositório do projeto:**  
+https://github.com/mozartDemarias/azimari-landing
+
+🌐 **Demonstração:**  
+[VERCEL](https://azimari-landing.vercel.app/)
 
 ---
 
