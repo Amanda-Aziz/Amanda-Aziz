@@ -7,7 +7,7 @@
 
 # 👋 Oi, eu sou Amanda!
 
-### 💻 Desenvolvedora Front-end em construção | Estudante de Ciência da Computação
+### 💻 Desenvolvedora | Estudante
 
 Sou estudante de Ciência da Computação (3º p), com formação técnica em Tecnologia da Informação e foco em desenvolvimento front-end, UI/UX e prototipagem digital.
 Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis utilizando HTML, CSS e JavaScript, sempre buscando unir lógica, estética e experiência do usuário em soluções funcionais e intuitivas.
