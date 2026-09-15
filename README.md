@@ -5,76 +5,61 @@
 </div>
 <div align="center">
 
-# 👋 Oi, eu sou Amanda!
-
-### 💻 Desenvolvedora | Estudante
-
-Sou estudante de Ciência da Computação (3º p), com formação técnica em Tecnologia da Informação e foco em desenvolvimento front-end, UI/UX e prototipagem digital.
-Tenho experiência no desenvolvimento de interfaces responsivas e acessíveis utilizando HTML, CSS e JavaScript, sempre buscando unir lógica, estética e experiência do usuário em soluções funcionais e intuitivas.
-
+# 👋 Oi, eu sou Amanda
+ 
+**Estudante de Ciência da Computação | Front-end & UI/UX**
+ 
+Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
+ 
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Front--end-ff00bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-UI%2FUX-ff00bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Design%20Responsivo-ff00bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Acessibilidade-ff00bf?style=for-the-badge" />
 </div>
 
 ---
 
-### 🚀 Sobre mim
-
-🎓 **Formação:** Técnica em TI (Senac 2022 - 2024) & Graduanda em CC na UNICAP (3º Período).
-
-🎨 **Áreas de Interesse:** Desenvolvimento Front-end | UI/UX Design | Design Responsivo | Acessibilidade | Prototipagem de Interfaces
-
-💡 **Destaques:** Participação em projetos acadêmicos e extensão universitária | Experiência com documentação técnica e organização de requisitos | Vivência em maratonas de inovação e prototipagem criativa
-
-🌱 **No momento:** Aprimorando meus conhecimentos em **JavaScript** e refinando técnicas de **CSS moderno**.
-
+### 🎓 Formação
+Técnica em TI (Senac, 2022–2024) · Graduanda em Ciência da Computação — UNICAP (3º período)
+ 
+### 🌱 No momento
+Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**
+ 
 ---
+  
 <div align="center">
   
-<h1> 🛠️ Projetos em destaque </h1>
-
+### 🚀 Projetos
+ 
 </div>
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <b>🌐 Lar Bem Elizabeth</b><br>
+      <sub>Site institucional acessível — projeto de extensão UNICAP</sub><br><br>
+      <a href="https://github.com/Foco-Dev-Projeto-de-Extensao/repositorio-do-larbem">
+        <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://larbem.ong.br/">
+        <img src="https://img.shields.io/badge/Ver%20site-ff00bf?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="400">
+      <b>💡 AZIMARI</b><br>
+      <sub>Landing page institucional — soluções em tech para saúde</sub><br><br>
+      <a href="https://github.com/mozartDemarias/azimari-landing">
+        <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://azimari-landing.vercel.app/">
+        <img src="https://img.shields.io/badge/Ver%20demo-ff00bf?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Lar Bem Elizabeth — Projeto de Extensão Universitária (UNICAP)
-Desenvolvimento de site institucional com foco em acessibilidade, responsividade e experiência do usuário.
-
-✨ Principais contribuições:
-- Desenvolvimento front-end com HTML, CSS e JavaScript
-- Interface responsiva com foco em UI/UX
-- Planejamento visual baseado em Neobrutalismo
-- Integração com WhatsApp e formulário de contato
-- Participação na documentação técnica e requisitos do sistema
-- **Tecnologias usadas:** HTML5 • CSS3 • JavaScript • Git/GitHub • Canva
-
-⭐ Contribuidores: [Mozart de Marias](https://github.com/mozartDemarias)
-<br>
-⭐ [Repositório](https://github.com/Foco-Dev-Projeto-de-Extensao/repositorio-do-larbem)
-<br>
-⭐ [site larbem oficial](https://larbem.ong.br/)
-
----
-
-### 🚀 AZIMARI — Landing Page Institucional
-
-Desenvolvimento da landing page institucional da **AZIMARI**, uma iniciativa voltada à criação de soluções em desenvolvimento de software e tecnologia para saúde.
-
-O projeto tem como objetivo apresentar a identidade da marca, seus serviços e suas áreas de atuação por meio de uma interface moderna, responsiva e alinhada à proposta visual da empresa.
-
-✨ **Principais contribuições:**
-
-- Desenvolvimento da interface da landing page
-- Criação de uma identidade visual tecnológica e moderna
-- Desenvolvimento de layout responsivo
-- Implementação das seções institucionais da plataforma
-- Aplicação de conceitos de UI/UX
-- Organização da estrutura e dos componentes do projeto
-- Participação no planejamento e desenvolvimento da presença digital da AZIMARI
-
-💻 **Tecnologias utilizadas:** HTML5 • CSS3 • JavaScript • Git • GitHub
-
-⭐ **Repositório do projeto:**  
-https://github.com/mozartDemarias/azimari-landing
-
-🌐 **Demonstração:**  
-[VERCEL](https://azimari-landing.vercel.app/)
 
 ---
 
