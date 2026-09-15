@@ -7,9 +7,10 @@
 
 # 👋 Oi, eu sou Amanda
  
-**Estudante de Ciência da Computação | Front-end & UI/UX**
+**★ Estudante de Ciência da Computação | Front-end & UI/UX ★**
  
-Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
+Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. <br>
+Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
  
 </div>
 <br>
@@ -21,18 +22,20 @@ Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsi
 </div>
 
 ---
+<div align="center">
+  
+### ✶ FORMAÇÃO
+-ˋˏ· Técnica em TI (Senac, 2022–2024) 💻 <br>
+⸝⸝ Graduanda em Ciência da Computação — UNICAP (3º período) 🎯
+### ✶ NO MOMENTO
+⊹ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**  ⊹
+</div>
 
-### 🎓 Formação
-Técnica em TI (Senac, 2022–2024) · Graduanda em Ciência da Computação — UNICAP (3º período)
- 
-### 🌱 No momento
-Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**
- 
 ---
   
 <div align="center">
   
-### 🚀 Projetos
+### ╰✦ ﹒✶  PROJETOS ﹑🎮
  
 </div>
 <table align="center">
@@ -75,7 +78,8 @@ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**
 
 <br>
 
-# 💻 TECH STACK
+# ╰˚๑ TECH STACK
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -100,13 +104,18 @@ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**
 
 <br>
 
-# 📊GITHUB STATS
+# GITHUB STATS 📊
 
 ![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀
+ </div>
 
 ### 🌐 Vamos nos conectar?
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mandiskx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-aziz-30a30p/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaaziz103@gmail.com) 
