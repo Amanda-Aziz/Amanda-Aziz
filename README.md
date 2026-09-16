@@ -32,12 +32,10 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 ### ✶ NO MOMENTO
 ♡ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**  ⊹
 </div>
-
----
   
 <div align="center">
   
-### ╰✦ ﹒✶  PROJETOS ﹑🎮
+### ╰✦ PROJETOS ﹢ꜜꜜ﹒
  
 </div>
 <table align="center">
