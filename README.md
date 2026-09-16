@@ -106,7 +106,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <br>
 
-#  ▇ ▆ ▅ ▄ ▃  GITHUB STATS ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▆ ▅ ▄ ▃ ▂ 
+#  ▆ ▇ ▆ ▅ ▄ ▃  GITHUB STATS ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▆ ▅ ▄ ▃ ▂ 
 
 ![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 
