@@ -8,7 +8,7 @@
 
 # 👋 Oi, eu sou Amanda
  
-**★ Estudante de Ciência da Computação | Front-end & UI/UX ★**
+**★ Ｅｓｔｕｄａｎｔｅ　ｄｅ　Ｃｉêｎｃｉａ　ｄａ　Ｃｏｍｐｕｔａçãｏ　｜　Ｆｒｏｎｔ－ｅｎｄ　＆　ＵＩ／ＵＸ ★**
  
 Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. <br>
 Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
@@ -65,12 +65,14 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   </tr>
 </table>
 
-
 ---
 
 <div align="center">
 
-<h1> 🏆 Maratona de Inovação & Criatividade </h1>
+<br>
+
+<h2>🏆 Ｍａｒａｔｏｎａ　ｄｅ　Ｉｎｏｖａçãｏ　＆　Ｃｒｉａｔｉｖｉｄａｄｅ</h2>
+<br>
 
     CESAR School (2024): Imersão focada em ideação criativa, prototipagem ágil e desenvolvimento 
     colaborativo de soluções tecnológicas.
