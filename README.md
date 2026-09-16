@@ -80,7 +80,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <br>
 
-# ╰˚๑ TECH STACK
+# ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▆ ▅ ▄ ▃ ▂  TECH STACK ▆ ▇ ▆ ▅ ▄ ▃ ▂ 
 <br>
 
 <div align="center">
@@ -106,7 +106,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <br>
 
-# GITHUB STATS 📊
+#  ▇ ▆ ▅ ▄ ▃  GITHUB STATS ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▆ ▅ ▄ ▃ ▂ 
 
 ![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -132,6 +132,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
 <div align="center">
   <pre>
