@@ -116,37 +116,16 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
 
-  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀
+  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ
  </div>
  
 ### 🌐 ＶＡＭＯＳ　ＮＯＳ　ＣＯＮＥＣＴＡＲ！ദ്ദി(˵ • ᴗ • ˵ ) ✧
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mandiskx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-aziz-30a30p/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaaziz103@gmail.com) 
 
-    
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
-
-<div align="center">
-  <pre>
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⣠⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣦⡀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⣉⠉⠳⢄⢠⢯⠀⣠⠴⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⠀⢃⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢤⠒⠤⡀⠈⢳⡆⡴⠺⢉⣉⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀
-⡾⢁⣴⠒⣄⠀⠀⠀⠀⠀⠀⢀⣴⣛⣓⡒⠭⣢⡈⠪⡆⢸⠉⠀⠀⣨⠒⠀⠀⠀⢀⣀⣀⣀⠀⡀⣀⣀⣀⡈⣾⠸⡞⢁⣀⣀⠀⢀⢀⣀⣀⣀⠀⠀⠀⠀⢸⡃⠀⠀⢹⠀⡜⠎⣠⣶⠿⣒⣒⣳⣄⠀⠀⠀⠀⠀⠀⠀⣴⠒⢄⠙⡆
-⠹⡘⡆⠠⠁⠁⠀⠀⠀⢀⠔⣹⡩⢀⠀⠈⠑⣌⠙⢦⡈⠘⣄⠀⠀⠀⠀⢀⢔⣪⡟⠛⠁⠀⠀⠀⠀⠀⠀⣨⠷⢸⠧⡁⠀⠀⠀⠀⠀⠀⠨⠑⢮⣑⢄⠀⠀⠀⠀⠀⡼⠞⣡⡾⠋⡱⠋⠁⢀⠡⠹⡕⢤⡀⠀⠀⠀⠀⠁⠀⡜⡸⠁
-⠀⠈⠪⠦⢤⣤⡠⠤⠚⠁⠀⠱⡀⠈⡗⠀⠀⠈⢣⡀⠙⠲⣌⡓⠤⠤⡴⣛⡭⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠪⢕⡳⡤⠤⠔⣊⡤⠞⠁⢀⠎⠀⠀⠀⣟⠁⣠⠃⠀⠉⠢⠤⢀⣤⡤⠾⠊⠀⠀
-⠀⠀⠀⠀⣬⠉⠁⠀⠀⠀⠀⠀⠑⠒⠁⠀⠀⠀⠈⠳⡄⠀⠉⠑⣒⣶⠓⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⠳⣶⠖⠋⠁⠀⡠⠊⠀⠀⠀⠀⠙⠒⠋⠀⠀⠀⠀⠀⠈⠉⡅⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠒⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠂⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣇⠄⠀⠀⠀
-⠀⠀⠉⡩⠿⢍⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠝⡿⡉⠀⠀⠀
-⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀
-  </pre>
-</div>
