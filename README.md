@@ -116,7 +116,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
 
-  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀
+  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀
  </div>
  
 ### 🌐 ＶＡＭＯＳ　ＮＯＳ　ＣＯＮＥＣＴＡＲ！ദ്ദി(˵ • ᴗ • ˵ ) ✧
