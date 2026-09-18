@@ -69,7 +69,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <br>
 
-<h2>🏆 Ｍａｒａｔｏｎａ　ｄｅ　Ｉｎｏｖａçãｏ　＆　Ｃｒｉａｔｉｖｉｄａｄｅ</h2>
+<h2>🏆 Maratona de Inovação & Criatividade </h2>
 <br>
 
     CESAR School (2024): Imersão focada em ideação criativa, prototipagem ágil e desenvolvimento 
