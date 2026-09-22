@@ -66,19 +66,6 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
 
-<br>
-
-<h2>🏆 Maratona de Inovação & Criatividade </h2>
-<br>
-
-    CESAR School (2024): Imersão focada em ideação criativa, prototipagem ágil e desenvolvimento 
-    colaborativo de soluções tecnológicas.
-    
-    TechnoMaker (2024): Experiência voltada para lógica computacional, pensamento crítico e 
-    criação de soluções tecnológicas colaborativas.
-
-<br>
-
 # TECH STACK
 <br>
 
