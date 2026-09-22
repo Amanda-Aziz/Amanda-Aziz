@@ -6,10 +6,9 @@
 </div>
 <div align="center">
 
-# 👋 Oi, eu sou ΛMΛПDΛ
- 
-### **★ Estudante de Ciência da Computação | Front-end UX/UI ★**
- 
+# **★ Estudante de Ciência da Computação | Front-end UX/UI ★**
+### 👋 Oi, eu sou Amanda Aziz
+
 Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. <br>
 Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
  
