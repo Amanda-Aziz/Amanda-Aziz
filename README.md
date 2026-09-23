@@ -2,12 +2,17 @@
 
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#ff00bf&fontAlign=48&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff00bf&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Amanda+Aziz!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+  </a>
+</p>
 
 </div>
-<div align="center">
 
-# **★ Estudante de Ciência da Computação | Front-end UX/UI ★**
-### 👋 Oi, meu nome é Amanda Aziz
+<div align="center">
+  
+### **★ Estudante de Ciência da Computação | Front-end UX/UI ★**
 
 Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. <br>
 Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
@@ -34,7 +39,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   
 <div align="center">
   
-### ╰✦ PROJETOS ﹢ꜜꜜ﹒
+### ✶ MEUS PROJETOS
  
 </div>
 <table align="center">
@@ -105,8 +110,23 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ
  </div>
  
-### 🌐 ＶＡＭＯＳ　ＮＯＳ　ＣＯＮＥＣＴＡＲ！ദ്ദി(˵ • ᴗ • ˵ ) ✧
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mandiskx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-aziz-30a30p/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaaziz103@gmail.com) 
+### 🌐 VAMOS NOS CONECTAR! ദ്ദി(˵ • ᴗ • ˵ ) ✧
+
+</div>
+
+  <p></p>
+  <div align="center"> 
+    
+  <a href="https://www.instagram.com/mandiskx/"><img src="https://img.shields.io/badge/Instagram-ff00bf?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:amandaaziz103@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff00bf?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amanda-aziz-30a30p/"><img src="https://img.shields.io/badge/LinkedIn-ff00bf?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <!-- <a href=""><img src=""></a> -->
+  
+ 
+</div>
+ 
+</div>
 
 </div>
 
