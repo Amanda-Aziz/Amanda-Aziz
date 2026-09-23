@@ -75,9 +75,12 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 <br>
 
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,js,c,vscode,bootstrap,figma,python)](https://skillicons.dev)
+
+  <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="25" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
@@ -93,17 +96,23 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  -->
+
+  
 </div>
 
 <br>
 
+
 # GITHUB STATS
 
-![](https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://github.com/Amanda-Aziz">
+    <img height="150em" src="https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&show_icons=true&theme=omni&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="150em" src="https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false"/>
+    <img height="150em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </a>
+</div>
 
 <div align="center">
 
