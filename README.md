@@ -32,16 +32,16 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
   
-### ✶ FORMAÇÃO
+### ✷ FORMAÇÃO
 ♡ Técnica em TI (Senac, 2022–2024) 💻 <br>
 ♡ Graduanda em Ciência da Computação — UNICAP (3º período) 🎯
-### ✶ NO MOMENTO
+### ✷ NO MOMENTO
 ♡ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**  ⊹
 </div>
   
 <div align="center">
   
-### ✶ MEUS PROJETOS
+### ✷ MEUS PROJETOS
  
 </div>
 <table align="center">
