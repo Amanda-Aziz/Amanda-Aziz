@@ -2,6 +2,7 @@
 
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#ff00bf&fontAlign=48&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff00bf&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Amanda+Aziz!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
