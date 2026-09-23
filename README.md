@@ -76,7 +76,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,js,c,vscode,bootstrap,figma,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,c,vscode,bootstrap,figma,python)](https://skillicons.dev)
 
   <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
