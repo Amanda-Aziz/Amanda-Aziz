@@ -110,9 +110,11 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
 
 <div align="center">
   <a href="https://github.com/Amanda-Aziz">
-    <img height="150em" src="https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&show_icons=true&theme=omni&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="150em" src="https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false"/>
-    <img height="150em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    
+  <img height="150em" src="https://github-readme-stats.shion.dev/api?username=Amanda-Aziz&show_icons=true&theme=omni&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Amanda-Aziz&theme=omni&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amanda-Aziz&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  
   </a>
 </div>
 
