@@ -53,7 +53,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
         <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://larbem.ong.br/">
-        <img src="https://img.shields.io/badge/Ver%20site-ff00bf?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ver%20site-DA70D6?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td align="center" width="400">
@@ -63,7 +63,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
         <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://azimari-landing.vercel.app/">
-        <img src="https://img.shields.io/badge/Ver%20demo-ff00bf?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ver%20demo-DA70D6?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -136,6 +136,11 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   
   <!-- <a href=""><img src=""></a> -->
   
+
+### Outros links!
+<a href="https://br.pinterest.com/mandiskx/"><img src="https://img.shields.io/badge/Pinterest-ff9fe5?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="https://open.spotify.com/user/10z765kcr2hznaprwl1qubqjm?si=bff8e25bda46437d"><img src="https://img.shields.io/badge/Spotify-ff9fe5?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.behance.net/amandaaziz2/projects"><img src="https://img.shields.io/badge/Behance-ff9fe5?style=for-the-badge&logo=behance&logoColor=white"></a>
  
 </div>
  
