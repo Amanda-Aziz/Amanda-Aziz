@@ -1,8 +1,9 @@
 <div align="center">
 
-<!--
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#ff00bf&fontAlign=48&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:ff4f9a&fontColor=ffffff&fontSize=48&fontAlignY=38&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+</div>
 
+<div align="center">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
