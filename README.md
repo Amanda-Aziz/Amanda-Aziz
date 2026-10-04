@@ -124,7 +124,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ
  </div>
  
-### 🌐 VAMOS NOS CONECTAR! (˵ • ᴗ • ˵ ) ✧
+### 🌐 Vamos nos conectar? (˵ • ᴗ • ˵ ) ✧
 
 </div>
 
