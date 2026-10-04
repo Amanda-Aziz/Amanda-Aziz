@@ -154,3 +154,12 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanda-Aziz/Amanda-Aziz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d0d0d,50:171117,100:ff4f9a&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=22&descAlign=50&descAlignY=60">
+
+  
+</div>
