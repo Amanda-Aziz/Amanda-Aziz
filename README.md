@@ -137,7 +137,7 @@ Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no desi
   <!-- <a href=""><img src=""></a> -->
   
 
-### Outros links!
+### 🪁 Outros links!
 <a href="https://br.pinterest.com/mandiskx/"><img src="https://img.shields.io/badge/Pinterest-ff9fe5?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="https://open.spotify.com/user/10z765kcr2hznaprwl1qubqjm?si=bff8e25bda46437d"><img src="https://img.shields.io/badge/Spotify-ff9fe5?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.behance.net/amandaaziz2/projects"><img src="https://img.shields.io/badge/Behance-ff9fe5?style=for-the-badge&logo=behance&logoColor=white"></a>
