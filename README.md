@@ -15,10 +15,11 @@
 
 <div align="center">
   
-### **★ Estudante de Ciência da Computação | Front-end UX/UI ★**
+### **★ Ciência da Computação + Design | UX/UI ★**
 
-Curto unir lógica e estética — traduzo ideias em interfaces limpas, responsivas e fáceis de usar. <br>
-Hoje me dedico a evoluir em JavaScript e CSS moderno, sempre com um olho no design.
+Encontrei meu caminho na junção entre **tecnologia e criatividade**. 💻🎨 <br>
+Gosto de entender como a lógica da Computação e o olhar do Design podem trabalhar juntos para transformar ideias em experiências digitais simples, intuitivas e funcionais. <br>
+Atualmente, estou explorando desenvolvimento, UX/UI e design de interfaces, construindo meu caminho nessa interseção.
  
 </div>
 <br>
