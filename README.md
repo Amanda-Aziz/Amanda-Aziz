@@ -101,7 +101,8 @@ Atualmente, estou explorando desenvolvimento, UX/UI e design de interfaces, cons
 
 <div align="center">
 
-  ### ｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ｀ヽ｀、ヽ ｀、ヽ｀｀、ヽ
+-------------------------------------------------------------------------------------------------------------
+  
  </div>
  
 ### 🌐 Vamos nos conectar? (˵ • ᴗ • ˵ ) ✧
