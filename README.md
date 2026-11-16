@@ -35,8 +35,8 @@ Atualmente, estou explorando desenvolvimento, UX/UI e design de interfaces, cons
 <div align="center">
   
 ### ✷ FORMAÇÃO
-♡ Técnica em TI: EM+Tecnico (Senac, 2022–2024) 💻 <br>
-♡ Graduanda em Ciência da Computação — UNICAP (3º período) 🎯
+♡ Técnica em TI: EM + Tecnico (Senac, 2022–2024) 💻 <br>
+♡ Graduanda em Ciência da Computação — UNICAP (2025.1 - 2029.1) 🎯
 ### ✷ NO MOMENTO
 ♡ Aprimorando **JavaScript** e refinando técnicas de **CSS moderno**  ⊹
 </div>
